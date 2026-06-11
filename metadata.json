@@ -1,0 +1,6 @@
+{
+  "name": "Resin Aura",
+  "description": "Premium luxury-grade handcrafted resin art, luxury decor, accessories, and personalized handmade creations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
